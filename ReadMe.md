@@ -1,18 +1,42 @@
-# 💫 About Me:
-Sou estudante de programção, estou me qualificando para Front-End;<br>Sou formada em Técnico em Eletroeletronica; 
+# ⚡ Raiane Sirlene | Future Computer Engineer & Tech Enthusiast
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raiane-silva-85b9b627b/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Silva-Raiane&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Silva-Raiane&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-Raiane&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Engenheira em formação, apaixonada por entender a engrenagem das coisas — do hardware ao código, da automação à arte. Atualmente, aplico lógica e tecnologia para otimizar processos na **Stellantis**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Silva-Raiane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Vertentes Técnicas & Ferramentas
+
+### 🐍 Programação & Dados
+- **Core:** Python (Automação e Análise).
+- **Web:** HTML5, CSS3 e JavaScript Vanilla (Foco na base sólida).
+- **Data:** Power BI, Excel Avançado e integração com SQL.
+
+### ⚙️ Engenharia & Automação (O "Como funciona")
+- **ERP:** SAP S/4HANA e RM TOTVS.
+- **CAD & Hardware:** AutoCAD, PTC Creo e conhecimentos em Eletroeletrônica (SENAI).
+- **Low-Code/No-Code:** Power Automate e VBA (Transformando rotinas manuais em automáticas).
+
+---
+
+## 🔬 Projetos em Foco (O meu "Diário Profissional")
+
+- **[SCR.data Analysis](link-do-seu-repo):** Tratamento de dados massivos do Banco Central com Python.
+- **[Stellantis SPW Automation](link-do-seu-repo):** Scripts Python para otimização de fluxos industriais.
+- **[Hardware & Tinker]:** Documentação de experimentos com eletrônica e desmontagem técnica (Enthusiast).
+
+---
+
+## 🎨 A Outra Face da Engenharia: Arte & Conexão
+Acredito que a tecnologia sem sensibilidade é incompleta. Minha criatividade é alimentada por:
+- **Artes Visuais:** Pintura e desenho (Perspectiva e detalhamento).
+- **Expressão:** Música, canto e dança (Ritmo e disciplina).
+- **Literatura:** Onde busco repertório para resolver problemas complexos com ideias simples.
+
+---
+
+## 📈 My Journey
+- 🔭 **Estudando:** Engenharia da Computação (UFBRA).
+- 🌱 **Evoluindo:** Inteligência Artificial Aplicada e Mecatrônica.
+- 💬 **Aberto para:** Colaborações em projetos Python e discussões sobre Hardware/Física.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raiane-sirlene-silva/)
